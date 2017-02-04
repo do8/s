@@ -1,0 +1,1 @@
+https://dsproxy-malaohu.rhcloud.com/http/pac/auto?proxy=HTTPS proxy.arukascloud.io
